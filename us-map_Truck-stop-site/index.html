@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>US Map</title>
+  <link rel="stylesheet" href="vendor/maplibre-gl.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="map" role="application" aria-label="Interactive map of the United States"></div>
+
+  <aside id="panel" aria-label="Map layers">
+    <div class="panel-head">
+      <h1 id="title">US Map</h1>
+      <button id="collapse" type="button" aria-expanded="true" aria-controls="panel-body">Hide</button>
+    </div>
+    <div id="panel-body">
+      <h2>Layers</h2>
+      <ul id="layer-list"></ul>
+      <button id="reset" type="button" class="link">Reset view</button>
+      <p id="status" role="status" aria-live="polite"></p>
+      <h2>Legend</h2>
+      <div id="legend"></div>
+    </div>
+  </aside>
+
+  <script src="vendor/maplibre-gl.js"></script>
+  <script src="vendor/pmtiles.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+{
+  "title": "US Map",
+  "basemap": {
+    "name": "OpenFreeMap Liberty",
+    "style": "https://tiles.openfreemap.org/styles/liberty"
+  },
+  "view": {
+    "bounds": [[-125.0, 24.0], [-66.5, 49.6]]
+  },
+  "layers": [
+    {
+      "id": "truck-stops",
+      "name": "Truck stops (Flying J, Pilot, TA, Petro, Love's)",
+      "type": "geojson",
+      "geometry": "point",
+      "url": "data/truck_stops.geojson",
+      "visible": true,
+      "refreshSeconds": 0,
+      "style": {
+        "colorBy": "group",
+        "colors": {
+          "Flying J": "#2a78d6",
+          "Pilot": "#eb6834",
+          "TA / Petro / Love's": "#1baf7a"
+        },
+        "color": "#8a8984",
+        "radius": 6
+      },
+      "popup": {
+        "title": "store",
+        "fields": [
+          { "key": "address", "label": "Address" },
+          { "key": "city", "label": "City" },
+          { "key": "state", "label": "State" },
+          { "key": "hwy_exit", "label": "Highway / exit" },
+          { "key": "coord_basis", "label": "Coordinates from" }
+        ],
+        "link": { "key": "source_url", "label": "Source page" }
+      }
+    }
+  ]
+}

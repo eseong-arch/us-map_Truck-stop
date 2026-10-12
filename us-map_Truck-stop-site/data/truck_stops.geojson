@@ -1,0 +1,965 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Flying J",
+    "store": "Flying J #614",
+    "address": "2611 Fisher Blvd",
+    "city": "Barstow",
+    "state": "CA",
+    "hwy_exit": "I-15/I-40 Exit 178",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/ca/barstow/2611-fisher-blvd"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.0814431,
+     34.8545118
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Flying J",
+    "store": "Flying J #765",
+    "address": "72235 Varner Rd",
+    "city": "Thousand Palms",
+    "state": "CA",
+    "hwy_exit": "I-10 Exit 130",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/ca/thousand-palms/72235-varner-rd"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.4033806,
+     33.8178456
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Flying J",
+    "store": "Flying J #1009",
+    "address": "11053 Riverside Dr",
+    "city": "Mira Loma",
+    "state": "CA",
+    "hwy_exit": "CA-60 Exit 42",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/ca/mira-loma/11053-riverside-dr"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.5254612,
+     34.015132
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Flying J",
+    "store": "Flying J #616",
+    "address": "42810 Frazier Mountain Park Rd",
+    "city": "Lebec",
+    "state": "CA",
+    "hwy_exit": "I-5 Exit 205",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/ca/lebec/42810-frazier-mountain-park-rd"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.8868851,
+     34.816644
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Flying J",
+    "store": "Flying J #608",
+    "address": "I-10 Exit 1 Frontage Rd N",
+    "city": "Ehrenberg",
+    "state": "AZ",
+    "hwy_exit": "I-10 Exit 1",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/az/ehrenberg/i-10-exit-1-frontage-road-n."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.5228634,
+     33.6016057
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Flying J",
+    "store": "Flying J #610",
+    "address": "3300 E Andy Devine Ave",
+    "city": "Kingman",
+    "state": "AZ",
+    "hwy_exit": "I-40 Exit 53",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/az/kingman/3300-e-andy-devine-ave"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.0071063,
+     35.2194461
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Flying J",
+    "store": "Flying J Travel Center #1372",
+    "address": "10835 S Double R Dr",
+    "city": "Yucca",
+    "state": "AZ",
+    "hwy_exit": "I-40 Exit 28",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/az/yucca/10835-s-double-r-dr"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.1555001,
+     34.9140304
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Flying J",
+    "store": "Flying J Dealer #513",
+    "address": "115 W Primm Blvd (listed as Jean, NV)",
+    "city": "Primm",
+    "state": "NV",
+    "hwy_exit": "I-15 Exit 1",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/nv/jean/115-west-primm-blvd."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.3917507,
+     35.6097184
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Flying J",
+    "store": "Flying J Dealer #1171",
+    "address": "1057 S Lower Flat Top Dr",
+    "city": "Mesquite",
+    "state": "NV",
+    "hwy_exit": "I-15 Exit 118",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/nv/mesquite/1057-s.-lower-flat-top-drive"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.1406037,
+     36.78403
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Pilot",
+    "store": "Pilot #282",
+    "address": "2591 Commerce Pkwy",
+    "city": "Barstow",
+    "state": "CA",
+    "hwy_exit": "I-15/I-40 Exit 178",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/ca/barstow/2591-commerce-pkwy"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.0874803,
+     34.8549172
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Pilot",
+    "store": "Pilot #200 (listed as Boron)",
+    "address": "5725 CA-58",
+    "city": "Kramer Junction",
+    "state": "CA",
+    "hwy_exit": "CA-58 / US-395",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/ca/boron/5725-ca-58"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.5421786,
+     34.9917784
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Pilot",
+    "store": "Pilot Dealer #1272",
+    "address": "35858 Ghost Town Rd",
+    "city": "Yermo",
+    "state": "CA",
+    "hwy_exit": "I-15 Exit 191",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/ca/yermo/35858-ghost-town-rd"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.887267,
+     34.904088
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Pilot",
+    "store": "Pilot #381",
+    "address": "8701 US-395",
+    "city": "Hesperia",
+    "state": "CA",
+    "hwy_exit": "I-15/US-395 Exit 141",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/ca/hesperia/8701-us-395"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.3986286,
+     34.4084872
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Pilot",
+    "store": "Pilot #1094",
+    "address": "1668 E Tehachapi Blvd",
+    "city": "Tehachapi",
+    "state": "CA",
+    "hwy_exit": "CA-58 Exit 151",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/ca/tehachapi/1668-e-tehachapi-blvd"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4153179,
+     35.1271219
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Pilot",
+    "store": "Pilot #1267",
+    "address": "5231 Pearblossom Hwy",
+    "city": "Palmdale",
+    "state": "CA",
+    "hwy_exit": "CA-138",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/ca/palmdale/5231-pearblossom-hwy"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.0359974,
+     34.5434455
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Pilot",
+    "store": "Pilot #307",
+    "address": "6605 N Indian Canyon Dr",
+    "city": "North Palm Springs",
+    "state": "CA",
+    "hwy_exit": "I-10 Exit 120",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/ca/north-palm-springs/6605-n-indian-canyon-dr"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.5461743,
+     33.9030662
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Pilot",
+    "store": "Pilot Dealer #1384",
+    "address": "90480 66th Ave",
+    "city": "Mecca",
+    "state": "CA",
+    "hwy_exit": "CA-86 & 66th Ave",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/ca/mecca/90480-66th-ave"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0903453,
+     33.5702273
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Pilot",
+    "store": "ONE9 Dealer #1271 (Pilot network)",
+    "address": "2084 S Marina Dr",
+    "city": "Thermal",
+    "state": "CA",
+    "hwy_exit": "CA-86",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/ca/thermal/2084-s-marina-dr"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.9656157,
+     33.2788476
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Pilot",
+    "store": "Pilot Dealer #1447",
+    "address": "550 Wake Ave",
+    "city": "El Centro",
+    "state": "CA",
+    "hwy_exit": "I-8 Exit 115",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/ca/el-centro/550-wake-ave"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.5549777,
+     32.7717326
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Pilot",
+    "store": "Pilot #1132",
+    "address": "234 Ben Hulse Hwy",
+    "city": "Brawley",
+    "state": "CA",
+    "hwy_exit": "CA-111 / CA-78",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/ca/brawley/234-ben-hulse-hwy"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.5039061,
+     32.9778992
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Pilot",
+    "store": "Pilot #1328",
+    "address": "2325 Sierra Lakes Pkwy",
+    "city": "Rialto",
+    "state": "CA",
+    "hwy_exit": "CA-210 Exit 68",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/ca/rialto/2325-sierra-lakes-pkwy"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.4197252,
+     34.1377509
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Pilot",
+    "store": "Pilot Dealer #1385",
+    "address": "10951 Cedar Ave",
+    "city": "Bloomington",
+    "state": "CA",
+    "hwy_exit": "I-10 Exit 66",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/ca/bloomington/10951-cedar-ave"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.3955278,
+     34.055335
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Pilot",
+    "store": "Pilot #1326",
+    "address": "2300 E Steel Rd",
+    "city": "Colton",
+    "state": "CA",
+    "hwy_exit": "I-10 Exit 73A/72",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/ca/colton/2300-e-steel-rd"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.2887415,
+     34.0623573
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Pilot",
+    "store": "Pilot #211",
+    "address": "14750 AZ-95",
+    "city": "Lake Havasu City",
+    "state": "AZ",
+    "hwy_exit": "I-40 Exit 9",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/az/lake-havasu-city/14750-az-95"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.315209,
+     34.728256
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Pilot",
+    "store": "Pilot Licensed #1193",
+    "address": "18183 US-93",
+    "city": "Wikieup",
+    "state": "AZ",
+    "hwy_exit": "US-93",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/az/wikieup/18183-us-93"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.6101845,
+     34.699549
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Pilot",
+    "store": "Pilot Dealer #1235",
+    "address": "9250 S Avenue 40 E",
+    "city": "Tacna",
+    "state": "AZ",
+    "hwy_exit": "I-8 Exit 42",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/az/tacna/9250-s-avenue-40-e"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.9540403,
+     32.6905242
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Pilot",
+    "store": "Pilot #1208",
+    "address": "3075 Gila Ridge Rd",
+    "city": "Yuma",
+    "state": "AZ",
+    "hwy_exit": "I-8 Exit 3",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/az/yuma/3075-gila-ridge-rd"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.5792705,
+     32.6859994
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Pilot",
+    "store": "Pilot #328",
+    "address": "1201 W Main St",
+    "city": "Quartzsite",
+    "state": "AZ",
+    "hwy_exit": "I-10 Exit 17",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/az/quartzsite/1201-w-main-st"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.2367918,
+     33.6615559
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Pilot",
+    "store": "Pilot #1212",
+    "address": "48286 Vicksburg Rd",
+    "city": "Salome",
+    "state": "AZ",
+    "hwy_exit": "I-10 Exit 45",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/az/salome/48286-vicksburg-rd"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.7683653,
+     33.6337213
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Pilot",
+    "store": "Pride Travel Center #1213 (Pilot network)",
+    "address": "12551 S Mohave Center Blvd",
+    "city": "Yucca",
+    "state": "AZ",
+    "hwy_exit": "I-40 Exit 25",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/az/yucca/12551-s-mohave-center-blvd"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.1440658,
+     34.8639643
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Pilot",
+    "store": "Pilot #341",
+    "address": "3812 E Craig Rd",
+    "city": "North Las Vegas",
+    "state": "NV",
+    "hwy_exit": "I-15 Exit 48 (per page)",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/nv/north-las-vegas/3812-e-craig-rd"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.0978424,
+     36.2409528
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Pilot",
+    "store": "ONE9 Dealer #1504 (Pilot network)",
+    "address": "670 US-95",
+    "city": "Searchlight",
+    "state": "NV",
+    "hwy_exit": "US-95",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/nv/searchlight/670-u.s.-95"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.9183435,
+     35.4609617
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "Pilot",
+    "store": "ONE9 Dealer #1477 (Pilot network)",
+    "address": "900 Lewis Ranch Rd",
+    "city": "Moapa",
+    "state": "NV",
+    "hwy_exit": "I-15 Exit 91",
+    "coord_basis": "operator page, Coordinates field",
+    "source_url": "https://locations.pilotflyingj.com/us/nv/moapa/900-lewis-ranch-road"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.560722,
+     36.664053
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "TA / Petro / Love's",
+    "store": "TA Barstow #0227",
+    "address": "2930 Lenwood Rd",
+    "city": "Barstow",
+    "state": "CA",
+    "hwy_exit": "I-15 Exit 178",
+    "coord_basis": "operator page, map-link geocode (4 dp)",
+    "source_url": "https://www.ta-petro.com/location/ca/ta-barstow/"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.0888,
+     34.8537
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "TA / Petro / Love's",
+    "store": "TA Coachella #0041",
+    "address": "46155 Dillon Rd",
+    "city": "Coachella",
+    "state": "CA",
+    "hwy_exit": "I-10 Exit 146",
+    "coord_basis": "operator page, map-link geocode (4 dp)",
+    "source_url": "https://www.ta-petro.com/location/ca/ta-coachella/"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.1756,
+     33.7139
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "TA / Petro / Love's",
+    "store": "TA Ontario #0162",
+    "address": "4265 E Guasti Rd",
+    "city": "Ontario",
+    "state": "CA",
+    "hwy_exit": "I-10 at Milliken Ave",
+    "coord_basis": "operator page, map-link geocode (4 dp)",
+    "source_url": "https://www.ta-petro.com/location/ca/ta-ontario/"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.5599,
+     34.0649
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "TA / Petro / Love's",
+    "store": "Petro Ontario #0026",
+    "address": "4325 E Guasti Rd",
+    "city": "Ontario",
+    "state": "CA",
+    "hwy_exit": "I-10 Exit 57",
+    "coord_basis": "operator page, map-link geocode (4 dp)",
+    "source_url": "https://www.ta-petro.com/location/ca/petro-ontario/"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.5566,
+     34.0647
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "TA / Petro / Love's",
+    "store": "TA Express Olancha #0430",
+    "address": "20 Gills Station Rd",
+    "city": "Olancha",
+    "state": "CA",
+    "hwy_exit": "US-395",
+    "coord_basis": "operator page, map-link geocode",
+    "source_url": "https://www.ta-petro.com/location/ca/ta-express-olancha/"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.9453874,
+     36.0477112
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "TA / Petro / Love's",
+    "store": "TA Wheeler Ridge #0239",
+    "address": "5552 S Wheeler Ridge Rd",
+    "city": "Arvin",
+    "state": "CA",
+    "hwy_exit": "I-5 (Laval Rd / Lake Isabella)",
+    "coord_basis": "operator page, map-link geocode (4 dp)",
+    "source_url": "https://www.ta-petro.com/location/ca/ta-wheeler-ridge/"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.9412,
+     34.992
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "TA / Petro / Love's",
+    "store": "TA Kingman #0094",
+    "address": "946 W Beale St",
+    "city": "Kingman",
+    "state": "AZ",
+    "hwy_exit": "I-40 Exit 48",
+    "coord_basis": "operator page, map-link geocode (4 dp)",
+    "source_url": "https://www.ta-petro.com/location/az/ta-kingman/"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.0702,
+     35.1901
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "TA / Petro / Love's",
+    "store": "Petro Kingman #0315",
+    "address": "970 S Blake Ranch Rd",
+    "city": "Kingman",
+    "state": "AZ",
+    "hwy_exit": "I-40 Exit 66",
+    "coord_basis": "operator page, map-link geocode (4 dp)",
+    "source_url": "https://www.ta-petro.com/location/az/petro-kingman/"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.7887,
+     35.1779
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "TA / Petro / Love's",
+    "store": "TA Express White Hills #0292",
+    "address": "19210 US-93",
+    "city": "White Hills",
+    "state": "AZ",
+    "hwy_exit": "US-93 MM 29",
+    "coord_basis": "operator page, map-link geocode (3 dp)",
+    "source_url": "https://www.ta-petro.com/location/az/ta-express-white-hills/"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.4672,
+     35.684
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "TA / Petro / Love's",
+    "store": "TA Las Vegas #0108",
+    "address": "8050 Dean Martin Dr",
+    "city": "Las Vegas",
+    "state": "NV",
+    "hwy_exit": "I-15 Exit 33",
+    "coord_basis": "operator page, map-link geocode (4 dp)",
+    "source_url": "https://www.ta-petro.com/location/nv/ta-las-vegas/"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.1873,
+     36.0433
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "TA / Petro / Love's",
+    "store": "Petro North Las Vegas #0331",
+    "address": "6595 N Hollywood Blvd",
+    "city": "North Las Vegas",
+    "state": "NV",
+    "hwy_exit": "I-15 Exit 54",
+    "coord_basis": "operator page, map-link geocode (4 dp)",
+    "source_url": "https://www.ta-petro.com/location/nv/petro-north-las-vegas/"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.0261,
+     36.2797
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "TA / Petro / Love's",
+    "store": "Petro Henderson #0968",
+    "address": "1700 Railroad Pass Casino Rd",
+    "city": "Henderson",
+    "state": "NV",
+    "hwy_exit": "I-11 Exit 15A",
+    "coord_basis": "operator page, map-link geocode",
+    "source_url": "https://www.ta-petro.com/location/nv/petro-henderson/"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.9156744,
+     35.9670745
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "TA / Petro / Love's",
+    "store": "TA Express Henderson #0969",
+    "address": "1550 Railroad Pass Casino Rd",
+    "city": "Henderson",
+    "state": "NV",
+    "hwy_exit": "I-11 Exit 15A",
+    "coord_basis": "operator page, map-link geocode",
+    "source_url": "https://www.ta-petro.com/location/nv/ta-express-henderson/"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.9105065,
+     35.9714738
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "TA / Petro / Love's",
+    "store": "Love's #374",
+    "address": "2974 Lenwood Rd",
+    "city": "Barstow",
+    "state": "CA",
+    "hwy_exit": "I-15 Exit 178",
+    "coord_basis": "third-party (Roadtrippers meta tag)",
+    "source_url": "https://maps.roadtrippers.com/us/barstow-ca/services/loves-travel-stop-barstow"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.09198,
+     34.85712
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "group": "TA / Petro / Love's",
+    "store": "Love's (Kingman, Minerva Ln)",
+    "address": "6035 E Minerva Ln",
+    "city": "Kingman",
+    "state": "AZ",
+    "hwy_exit": "I-40",
+    "coord_basis": "third-party (Roadtrippers)",
+    "source_url": "https://maps.roadtrippers.com/us/kingman-az/services/loves-travel-stop-kingman"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.90403,
+     35.19925
+    ]
+   }
+  }
+ ]
+}
